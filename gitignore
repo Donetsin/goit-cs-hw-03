@@ -1,0 +1,8 @@
+# Virtual environment
+task_01/.venv/
+.venv/
+_pycache_/
+task_01/_pycache_/
+task_02/_pycache_/
+
+
